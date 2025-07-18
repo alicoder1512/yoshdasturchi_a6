@@ -11,6 +11,7 @@
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/5024/5024184.png" type="image/x-icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -34,7 +35,7 @@
     <header id="header" class="header d-flex align-items-center light-background sticky-top">
         <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
 
-            <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+            <a href="/" class="logo d-flex align-items-center me-auto me-xl-0">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
                 <!-- <img src="assets/img/logo.png" alt=""> -->
                 <h4 class="sitename">Yoshdasturchi.uz</h4>
@@ -43,8 +44,8 @@
             <nav id="navmenu" class="navmenu">
                 <ul>
                     <li><a href="services.html" class="active">O'quvchilarimiz</a></li>
-                    <li><a target="_blank" href="https://yoshdasturchi.uz/">Tez yozish</a></li>
-                    <li><a target="_blank" href="https://yoshdasturchi.uz/public/sonlar/">Mental Arifmetika</a></li>
+                    <li><a target="_blank" href="https://www.typing.com/">Tez yozish</a></li>
+                    <li><a target="_blank" href="https://t.mentalnaya-arifmetika.club/">Mental Arifmetika</a></li>
                     <li><a target="_blank" href="https://kopaytirish.uz/">Ko'paytirish jadvali</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
