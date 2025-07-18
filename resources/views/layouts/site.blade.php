@@ -9,8 +9,6 @@
     <meta name="keywords" content="alicoder, Yoshdasturchi, yosh dasturchi, islom baxromov, Sarvar">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/5024/5024184.png" type="image/x-icon">
 
     <!-- Fonts -->
