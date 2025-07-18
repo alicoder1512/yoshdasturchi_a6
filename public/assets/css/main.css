@@ -1424,7 +1424,5 @@ section,
 
 
 .service-item img {
-  width: 200px;
-  height: 200px;
   transform: translateY(-30px);
 }

@@ -17,7 +17,7 @@
             @foreach ($students as $student)
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="service-item item-cyan position-relative">
-                    <img src="{{ asset('/storage/' . $student->photo) }}" alt="img error">
+                    <img  class="card-img-top" src="{{ asset('/storage/' . $student->photo) }}" alt="img error">
                     <a href="{{ route('site.student.show',$student->id ) }}" class="stretched-link">
                         <h3>{{ $student->name ?? '' }}</h3>
                     </a>
