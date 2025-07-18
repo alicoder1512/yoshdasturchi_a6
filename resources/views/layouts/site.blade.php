@@ -41,7 +41,7 @@
 
             <nav id="navmenu" class="navmenu">
                 <ul>
-                    <li><a href="services.html" class="active">O'quvchilarimiz</a></li>
+                    <li><a href="/" class="active">O'quvchilarimiz</a></li>
                     <li><a target="_blank" href="https://www.typing.com/">Tez yozish</a></li>
                     <li><a target="_blank" href="https://t.mentalnaya-arifmetika.club/">Mental Arifmetika</a></li>
                     <li><a target="_blank" href="https://kopaytirish.uz/">Ko'paytirish jadvali</a></li>
